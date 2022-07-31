@@ -7,12 +7,12 @@
 ### Vacation spots
 Choosing from different areas is hard so I chose places in europe I would like to go and set the areas pretty close to one another.
 
-![WeatherPy_vacation_map](/WeatherPy_vacation_map)
+![WeatherPy vacation map](/WeatherPy_vacation_map.png)
 
 ### Vacation plan
 
 Using the Google Directions API I am able to create different paths and show how I can get to my different vacation spots.
 
-![WeatherPy_travel_map](/WeatherPy_travel_map)
+![WeatherPy travel map](/WeatherPy_travel_map.png)
 
 
